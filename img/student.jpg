@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+
+<html lang="en">
+<head>
+  <!-- metadata -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- page title -->
+
+  <!-- page title -->
+  <title>RCSFA</title>
+
+  <!-- styles -->
+<link rel="stylesheet" href="css/odin-0.7.1.css">
+<link rel="stylesheet" href="css/main.css">
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+  <!-- start making your grid here -->
+
+  <img src="img/snip.jpg">
+
+
+
+  <div class="row">
+    <div class="col--12">
+
+</div>
+<nav class="navbar navbar-slideout-lg">
+ <button class="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+  <div class="navbar-menu">
+   <a class="slideout-brand"
+     <button class="menu-dismiss" aria-label="Dismiss navigation">&times;</button>
+ <nav class="navbar center-horizontal">
+   <div class="navbar-menu">
+        <ul>
+          <li><a href="home.html">About</a></li>
+          <li><a href="Services.html">Students</a></li>
+          <li><a href="staff.html">Staff</a></li>
+          <li><a href="Blog.html">Courses</a></li>
+          <li><a href="calendar.html">Calender</a></li>
+        </ul>
+      </div>
+    </nav>
